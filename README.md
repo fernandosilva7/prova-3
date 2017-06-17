@@ -6,6 +6,6 @@ Ex1) Utilizei o padrão Visitor, pois no próprio enunciado diz para implementar
 Ex2) Utilizei o padrão Prototype, pois o próprio enunciado evidencia que a interface Cloneable provê o método clone() usado no
 padrão Prototype, assim podendo especificar tipos de objetos a serem criados usando uma instância protótipo e criar novos objetos pela cópia desse protótipo.
 
-Ex7) Utilizei o padrão Observer, para definir uma dependência de um para muitos entre objetos, pois quando um objeto muda de estado todos os seus dependentes são notificados e atualizados automaticamente, assim podendo notificar todos os fãs de um determinado jogador de futebol sobre as informações requiridas.
+Ex7) Utilizei o padrão Observer, para definir uma dependência de um para muitos entre objetos, pois quando um objeto muda de estado todos os seus dependentes são notificados e atualizados automaticamente, assim podendo notificar todos os fãs de um determinado jogador de futebol e a imprensa sobre as informações requiridas deste mesmo jogador.
 
 Ex8) Utilizei o padrão Abstracty Factory para poder fornecer especificamente uma enum como pede no enunciado para criação de famílias de objetos relacionados sem especificar suas classes concretas.
